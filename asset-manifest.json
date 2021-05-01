@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/blog-post-class/static/css/main.f256ebde.chunk.css",
-    "main.js": "/blog-post-class/static/js/main.d62646fa.chunk.js",
-    "main.js.map": "/blog-post-class/static/js/main.d62646fa.chunk.js.map",
-    "runtime-main.js": "/blog-post-class/static/js/runtime-main.d4b568fc.js",
-    "runtime-main.js.map": "/blog-post-class/static/js/runtime-main.d4b568fc.js.map",
+    "main.css": "/blog-post-class/static/css/main.5c37469d.chunk.css",
+    "main.js": "/blog-post-class/static/js/main.3ee29ef9.chunk.js",
+    "main.js.map": "/blog-post-class/static/js/main.3ee29ef9.chunk.js.map",
+    "runtime-main.js": "/blog-post-class/static/js/runtime-main.2b856b8a.js",
+    "runtime-main.js.map": "/blog-post-class/static/js/runtime-main.2b856b8a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/blog-post-class/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.f4084885.chunk.js": "/blog-post-class/static/js/2.f4084885.chunk.js",
-    "static/js/2.f4084885.chunk.js.map": "/blog-post-class/static/js/2.f4084885.chunk.js.map",
-    "static/js/3.4bd11361.chunk.js": "/blog-post-class/static/js/3.4bd11361.chunk.js",
-    "static/js/3.4bd11361.chunk.js.map": "/blog-post-class/static/js/3.4bd11361.chunk.js.map",
+    "static/js/2.72c48ff3.chunk.js": "/blog-post-class/static/js/2.72c48ff3.chunk.js",
+    "static/js/2.72c48ff3.chunk.js.map": "/blog-post-class/static/js/2.72c48ff3.chunk.js.map",
+    "static/js/3.2c151eaf.chunk.js": "/blog-post-class/static/js/3.2c151eaf.chunk.js",
+    "static/js/3.2c151eaf.chunk.js.map": "/blog-post-class/static/js/3.2c151eaf.chunk.js.map",
     "index.html": "/blog-post-class/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/blog-post-class/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f256ebde.chunk.css.map": "/blog-post-class/static/css/main.f256ebde.chunk.css.map",
-    "static/js/2.f4084885.chunk.js.LICENSE.txt": "/blog-post-class/static/js/2.f4084885.chunk.js.LICENSE.txt",
+    "static/css/main.5c37469d.chunk.css.map": "/blog-post-class/static/css/main.5c37469d.chunk.css.map",
+    "static/js/2.72c48ff3.chunk.js.LICENSE.txt": "/blog-post-class/static/js/2.72c48ff3.chunk.js.LICENSE.txt",
     "static/media/Login.css": "/blog-post-class/static/media/homepage-hero-4.1da202e0.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4b568fc.js",
+    "static/js/runtime-main.2b856b8a.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.f4084885.chunk.js",
-    "static/css/main.f256ebde.chunk.css",
-    "static/js/main.d62646fa.chunk.js"
+    "static/js/2.72c48ff3.chunk.js",
+    "static/css/main.5c37469d.chunk.css",
+    "static/js/main.3ee29ef9.chunk.js"
   ]
 }
