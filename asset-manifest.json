@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/blog-post-class/static/css/main.f256ebde.chunk.css",
+    "main.js": "/blog-post-class/static/js/main.03d1ee86.chunk.js",
+    "main.js.map": "/blog-post-class/static/js/main.03d1ee86.chunk.js.map",
+    "runtime-main.js": "/blog-post-class/static/js/runtime-main.d4b568fc.js",
+    "runtime-main.js.map": "/blog-post-class/static/js/runtime-main.d4b568fc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/blog-post-class/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4084885.chunk.js": "/blog-post-class/static/js/2.f4084885.chunk.js",
+    "static/js/2.f4084885.chunk.js.map": "/blog-post-class/static/js/2.f4084885.chunk.js.map",
+    "static/js/3.4bd11361.chunk.js": "/blog-post-class/static/js/3.4bd11361.chunk.js",
+    "static/js/3.4bd11361.chunk.js.map": "/blog-post-class/static/js/3.4bd11361.chunk.js.map",
+    "index.html": "/blog-post-class/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/blog-post-class/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f256ebde.chunk.css.map": "/blog-post-class/static/css/main.f256ebde.chunk.css.map",
+    "static/js/2.f4084885.chunk.js.LICENSE.txt": "/blog-post-class/static/js/2.f4084885.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/blog-post-class/static/media/homepage-hero-4.1da202e0.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b568fc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f4084885.chunk.js",
+    "static/css/main.f256ebde.chunk.css",
+    "static/js/main.03d1ee86.chunk.js"
+  ]
+}
